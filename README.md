@@ -21,3 +21,6 @@ Recommended Setup
 IRC
 ---
 Join us on [irc.spi.gt, #spigot-server](https://irc.spi.gt/iris/?nick=&channels=spigot-server)
+
+
+(All work is owned by Spigot MC. This is purely for testing purposes). Thank you!
